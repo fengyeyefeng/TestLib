@@ -22,7 +22,7 @@ pod 'TestLib'
 
 ## Author
 
-850379974@qq.com, shugang.chang@moji.com
+850379974@qq.com
 
 ## License
 
